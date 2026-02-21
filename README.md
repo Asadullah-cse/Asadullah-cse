@@ -20,7 +20,7 @@ I enjoy building structured, scalable, and maintainable solutions while continuo
 ## 🛠 Technical Skills
 
 - **Programming Languages:** C++, Java, JavaScript, Python  
-- **Web Technologies:** HTML, CSS  
+- **Web Technologies:** HTML, CSS and JavaScript
 - **Core Concepts:** Object-Oriented Programming (OOP), Problem Solving  
 - **Currently Exploring:** Advanced Java & Modern JavaScript  
 
