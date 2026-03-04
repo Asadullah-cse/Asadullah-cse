@@ -1,4 +1,4 @@
-# Hi 👋, I'm Asadullah Shaikh
+# Hi, I'm Asadullah Shaikh
 
 🎓 Computer Systems Engineering Student at Mehran University of Engineering & Technology (MUET), Jamshoro  
 💻 Passionate about Software Engineering and Full Stack Development  
