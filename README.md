@@ -1,7 +1,7 @@
 # Hi, I'm Asadullah Shaikh
 
-🎓 Computer Systems Engineering Student at Mehran University of Engineering & Technology (MUET), Jamshoro  
-💻 Passionate about Software Engineering, Full Stack Web Development and Artificial Intelligence 
+🎓 Computer Systems Engineering Student at Mehran University of Engineering & Technology (MUET), Jamshoro
+💻 Passionate about Software Engineering, Full Stack Web Development and Artificial Intelligence
 🚀 Currently learning DSA in C++ and Front-End Web Development
 🎯 Aspiring Full Stack Engineer
 
